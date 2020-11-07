@@ -15,3 +15,9 @@ You need to export the group chat without media and put that text file into your
 * Python
 * JupyterNotebook
 
+## Don't misuse with the .txt file uploaded here. 
+
+## For genrating .txt file of Group chat follow the procedure:
+* Open WhatsApp and visit the particular group
+* Click on three dot-> More-> Click Export Chat
+* Save the .txt file in your desired location or drive or locale
