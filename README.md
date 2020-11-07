@@ -13,7 +13,7 @@ You need to export the group chat without media and put that text file into your
   
 ## 🔧 Technologies used:
 * Python
-* JupyterNotebook
+* Jupyter Notebook
 
 ## Don't misuse with the .txt file uploaded here. 
 
